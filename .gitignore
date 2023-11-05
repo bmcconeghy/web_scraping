@@ -161,3 +161,4 @@ cython_debug/
 
 .vscode
 abcellera_salaries.*
+job_postings.json

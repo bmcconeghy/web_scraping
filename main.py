@@ -1,7 +1,3 @@
-import os
-os.chdir("/home/bmcconeghy/web_scraping")
-
-
 import attr
 import json
 import pandas as pd
